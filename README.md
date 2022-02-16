@@ -1,2 +1,2 @@
 # swift-datastructures-algorithms
-Data Structures and Algorithms with Swift.
+Data Structures and Algorithms with Swift. 😊
