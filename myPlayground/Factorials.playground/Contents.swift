@@ -24,5 +24,5 @@ func factorialsRecursion(_ value: Int) -> Int {
 }
 
 
-//factorialsRecursion(10)
+factorialsRecursion(10)
 
