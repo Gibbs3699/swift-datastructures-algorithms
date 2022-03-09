@@ -13,7 +13,7 @@ func factorials(_ value: Int) -> Int {
     return result
 }
 
-factorials(6)
+//factorials(6)
 
 func factorialsRecursion(_ value: Int) -> Int {
     if value == 0 {
@@ -24,4 +24,5 @@ func factorialsRecursion(_ value: Int) -> Int {
 }
 
 
-factorialsRecursion(10)
+//factorialsRecursion(10)
+
